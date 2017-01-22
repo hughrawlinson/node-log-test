@@ -1,0 +1,11 @@
+{
+  "name": "node-log-test",
+  "version": "0.0.1",
+  "description": "A test case for log in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Hugh Rawlinson <hughr2005@gmail.com>",
+  "license": "ISC"
+}

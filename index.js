@@ -264,5 +264,5 @@ for (var i = 0; i < validAmpSpec.length; i++) {
   denominator += validAmpSpec[i];
 }
 
-console.log(Math.exp(numerator / arguments[0].ampSpectrum.length) *
-    arguments[0].ampSpectrum.length / denominator);
+console.log(Math.exp(numerator / validAmpSpec.length) *
+    validAmpSpec.length / denominator);
